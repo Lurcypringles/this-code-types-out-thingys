@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>webdev</title>
+            <meta charset="UTF-8">
+            <meta name="description" content="This does nothing but print out hello world and adds a random website link about rabbits"> 
+            <meta name="author" content="Lucy Sheng">
+        </head>
+        <body>
+           <p>Hello World</p>
+            <a href = https://www.humanesociety.org/resources/what-do-about-wild-rabbits> click this if you want to read some random article about rabbits </a>
+        </body>
